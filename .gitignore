@@ -1,5 +1,6 @@
 training.1600000.processed.noemoticon.csv
 sample.csv
+feature_set.csv
 
 # Created by https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=macos,pycharm,jupyternotebook,visualstudiocode
